@@ -1,5 +1,5 @@
 #Northern Line stations
-BFSTC="BelfastCentral
+BFSTC="Belfast Central"
 LBURN="Lisburn"
 LURGN="Lurgan"
 PDOWN="Portadown"
@@ -8,13 +8,10 @@ NEWRY="Newry"
 DDALK="Dundalk"
 DGHDA="Drogheda"
 MSNEY="Mosney"
-#
 BBRGN="Balbriggan"
 SKRES="Skerries"
-#
 MHIDE="Malahide"
 PMNCK="Portmarnock"
-#Clontarf
 HWTHJ="Howth Junction"
 KBRCK="Kilbarrack"
 RAHNY="Raheny"
